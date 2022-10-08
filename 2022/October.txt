@@ -1,17 +1,16 @@
 Friday, October 7 2022
-
 Hello Guys~!
 I am Water Man Joy!
 Today, I was learn to Git and GitHub.
-
 I suffered because of my authentication Key..
 But I solved!!
 
 Saturday, October 8 2022
-
 Hello erveryone!
 I almost finished the Git and GitHub.
 so I started my personal Project!
 Let Get it!!!
-
+My project is (Campground Project)
+So What I have made is CRUD.
+and then I will connect to Camp Map.
 
