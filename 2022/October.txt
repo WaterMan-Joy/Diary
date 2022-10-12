@@ -35,3 +35,4 @@ Wendnesday, October 12 2022
 Hi good morning guys!!
 I'm learn to Error Handler
 so I applied it to My Project!
+I'm learning next, throw, catch
