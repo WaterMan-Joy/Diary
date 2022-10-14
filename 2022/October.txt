@@ -40,3 +40,7 @@ I'm learning next, throw, catch
 Thursday, October 13 2022
 Hi Guys!!
 Today, I'm learnig to validation at database, server, bootstrap
+
+Friday, October 14 2022
+Hello Guys!!
+What I learned today is Error.
