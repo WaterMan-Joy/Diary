@@ -56,3 +56,12 @@ I was learn to Kali Linux and install in my MacBook!!
 Wednesday, October 19 2022
 I learned to Kali Linux for WiFE Hacking!
 Of course I used my own WIFI!!
+
+Sunday, October 23 2022
+Hello guys!!
+1. What are Cookies?
+Cookies are small pieces of information in the browser. 
+It is connected to a specific website. 
+Cookies consist of keys and Values. 
+1. Where to study cookies?
+I’m learning to use cookies in the online lecture at udemy
